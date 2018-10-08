@@ -1,6 +1,6 @@
 ---
-title: "Hi Pooja"
-date: 2018-10-04T01:16:50-04:00
+title: Hi Pooja
+date: 2018-10-04 05:16:50 +0000
 categories:
 - category
 - subcategory
@@ -9,10 +9,9 @@ tags:
 - tag2
 keywords:
 - tech
-#thumbnailImage: //example.com/image.jpg
----
 
+---
 Hey gurl,
 <!--more-->
 
-I love you
+I love you more than you know. I await eagerly for your thoughts :)

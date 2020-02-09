@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2020-02-06T05:00:00Z
-draft = true
 keywords = ["misc\n"]
 tags = []
 title = "Poetry and our chaotic life"
